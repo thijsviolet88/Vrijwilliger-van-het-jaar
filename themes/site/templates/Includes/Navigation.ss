@@ -1,5 +1,5 @@
-<nav class="container lg:pt-10 flex justify-between lg:justify-start relative">
-    <ul class="flex flex-col lg:flex-row gap-y-2 justify-center item-center lg:gap-x-10">
+<nav class="container relative flex justify-between lg:justify-start lg:pt-12">
+    <ul class="flex flex-col lg:flex-row gap-y-2 justify-center item-center lg:gap-x-6">
         <li>
             <a class="link w-full" href="/aanmeldpagina">Aanmelden</a>
         </li>
@@ -7,7 +7,7 @@
             <a class="link w-full" href="/nomineren">Nomineren</a>
         </li>
     </ul>
-    <svg class="lg:absolute top-0 right-0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="106.537" height="133" viewBox="0 0 106.537 133">
+    <svg class="lg:absolute top-0 right-0 z-10 h-32 w-28" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="106.537" height="133" viewBox="0 0 106.537 133">
         <defs>
             <clipPath id="clip-path">
             <path id="Path_2550" data-name="Path 2550" d="M0,59.779H106.537v-133H0Z" transform="translate(0 73.221)" fill="none"/>

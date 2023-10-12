@@ -7,7 +7,7 @@
             <h2 class="text-center">
                 Programma
             </h2>
-            <table class="border-y-2 border-white">
+            <table class="border-separate border-y-2 py-10 border-white">
                 <tbody>
                     <tr>
                         <td class="px-10 font-bold">19:00</td>

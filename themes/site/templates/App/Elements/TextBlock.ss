@@ -1,4 +1,4 @@
-<section class="py-14 px-6 container space-y-4">
+<section class="pt-14 pb-20 px-6 container space-y-4">
     <% if $Title %>
         <h2 class="text-black text-center">{$Title}</h2>
     <% end_if %>

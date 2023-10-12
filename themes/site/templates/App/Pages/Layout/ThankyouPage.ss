@@ -8,7 +8,7 @@
                 Download je gratis ticket op de website van MCO
             </p>
 
-            <a class="btn">
+            <a class="btn" href="{$ButtonLink}">
                 Download hier je gratis ticket
             </a>
         </div>

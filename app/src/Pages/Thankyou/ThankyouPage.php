@@ -3,6 +3,7 @@
 namespace App\Pages;
 
 use Page;
+use SilverStripe\Forms\TextField;
 
 class ThankyouPage extends Page {
     private static $table_name = 'ThankyouPage';
@@ -11,6 +12,7 @@ class ThankyouPage extends Page {
 
     private static $db = [
         'Title' => 'Varchar',
+        'ButtonLink' => 'Varchar',
     ];
 
     private static $summary_fields = [
@@ -19,6 +21,10 @@ class ThankyouPage extends Page {
 
     public function getCMSFields() {
         $fields = parent::getCMSFields();
+
+        $fields->addFieldsToTab('Root.Main', [
+            TextField::create('ButtonLink', 'Link voor downloaden ticket'),
+        ]);
 
         return $fields;
     }

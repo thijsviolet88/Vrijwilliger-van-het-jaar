@@ -1,6 +1,6 @@
-<header class="bg-secondary overflow-hidden relative py-10 lg:py-36">
+<header class="bg-secondary overflow-hidden py-10 lg:py-36">
     <div class="px-6 lg:px-0 container h-full flex flex-col gap-y-10 items-center justify-center lg:gap-x-[10rem] lg:flex-row lg:justify-between">
-        <figure class="text-3xl z-10 font-bold bg-white p-10 flex flex-col gap-y-10 shadow-2xl w-full lg:w-[25rem] lg:h-full">
+        <figure class="text-3xl z-10 font-bold bg-white p-10 flex flex-col gap-y-10 shadow-2xl w-full lg:w-[25rem] text-gray-dark lg:h-full">
             sterren
             </br>
             van 
@@ -10,7 +10,7 @@
         </figure>
 
         <h1 class="text-center lg:text-left lg:w-[30rem] self-end">$BannerTitle</h1>
-        <svg class="absolute h-full" xmlns="http://www.w3.org/2000/svg" width="780.785" height="542.644" viewBox="0 0 780.785 542.644">
+        <svg class="absolute h-full scale-150" xmlns="http://www.w3.org/2000/svg" width="780.785" height="542.644" viewBox="0 0 780.785 542.644">
             <g id="Group_2328" data-name="Group 2328" transform="translate(-13.276 470)">
                 <g id="Group_2261" data-name="Group 2261" transform="translate(259.43 -72.221)">
                 <path id="Path_2671" data-name="Path 2671" d="M1.48,1.481,4.357-7.157,7.235,1.481l8.632,2.88L7.235,7.239,4.357,15.878,1.48,7.239-7.152,4.361Z" transform="translate(7.152 7.157)" fill="#fff"/>
