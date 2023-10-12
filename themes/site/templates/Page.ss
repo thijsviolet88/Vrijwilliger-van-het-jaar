@@ -19,8 +19,10 @@
         <title><% if $MetaTitle %>$MetaTitle<% else %>$Title<% end_if %></title>
     </head>
     <body>
+        <% include Includes/Navigation %>
         <main id="app">
             $Layout
         </main>
+        <% include Includes/Footer %>
     </body>
 </html>

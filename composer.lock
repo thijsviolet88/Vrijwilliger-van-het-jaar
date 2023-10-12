@@ -2876,6 +2876,11 @@
                 "files": [
                     "src/includes/constants.php"
                 ],
+                "include-path": [
+                    "src/",
+                    "src/includes/",
+                    "thirdparty/"
+                ],
                 "psr-4": {
                     "SilverStripe\\Dev\\": "src/Dev/",
                     "SilverStripe\\ORM\\": "src/ORM/",

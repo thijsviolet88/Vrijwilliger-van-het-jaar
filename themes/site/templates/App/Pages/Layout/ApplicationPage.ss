@@ -1,0 +1,3 @@
+<% include Includes/Banner %>
+
+$ElementalArea
